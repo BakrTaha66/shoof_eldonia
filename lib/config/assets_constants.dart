@@ -1,0 +1,34 @@
+class AssetsConstants {
+  static const String splashImage = 'assets/images/splash_image.png';
+  static const String egyptImage = 'assets/images/egypt.png';
+  static const String saudiImage = 'assets/images/saudi-arabia.png';
+  static const String worldwideImage = 'assets/images/worldwide.png';
+  static const String logoImage = 'assets/images/Screenshot__7_-removebg-preview.png';
+  static const String on1 = 'assets/images/on1.png';
+  static const String on2 = 'assets/images/on2.png';
+  static const String on3 = 'assets/images/on3.png';
+  static const String loginScreen = 'assets/images/login.png';
+  static const String search = 'assets/images/search.png';
+  static const String apple = 'assets/images/apple.png';
+  static const String back = 'assets/images/back.png';
+  static const String calendarIcon = 'assets/icons/calendar.svg';
+  static const String interrogationIcon = 'assets/icons/interrogation.svg';
+  static const String userIcon = 'assets/icons/user.svg';
+  static const String homeIcon = 'assets/icons/home.svg';
+  static const String hotelIcon = 'assets/icons/hotel.svg';
+  static const String planeIcon = 'assets/icons/plane-alt.svg';
+  static const String unIonIcon = 'assets/icons/Union.svg';
+  static const String hotelBoldIcon = 'assets/icons/hotel-bold.svg';
+  static const String planeBoldIcon = 'assets/icons/plane-bold.svg';
+  static const String unIonBoldIcon = 'assets/icons/Union-bold.svg';
+  static const String markerIcon = 'assets/icons/marker.svg';
+  static const String planeDepartureIcon = 'assets/icons/plane-departure.svg';
+  static const String bellIcon = 'assets/icons/bell.svg';
+  static const String commentsQuestionIcon = 'assets/icons/comments-question.svg';
+  static const String angleDownIcon = 'assets/icons/angle-down.svg';
+  static const String headSetIcon = 'assets/icons/headset.svg';
+  static const String phoneCallIcon = 'assets/icons/phone-call.svg';
+  static const String percent = 'assets/icons/badge-percent.svg';
+  static const String bed = 'assets/icons/bed.svg';
+  static const String users = 'assets/icons/users.svg';
+}
